@@ -1,0 +1,1 @@
+# greenscatter-mahjong
